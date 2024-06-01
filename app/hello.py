@@ -1,3 +1,4 @@
+# Python Fire is a libary for automatically generating CLI from simple python codes
 import fire
 
 def hello(name="World"):
